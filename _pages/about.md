@@ -10,3 +10,8 @@ redirect_from:
 Hello there! Welcome to visit my personal website.
 
 I am currently a Master Student at School of Pharmacy, Keimyung University, South Korea, and a Research Assisstant at the Nano-Biopharmaceutics Lab led by Prof. Park Soyeun. I have a Bachelor degree in Pharmacy from School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City.
+
+Education
+======
+* M.S. in Pharmaceutical Sciences, School of Pharmacy, Keimyung University, 2028
+* B.S. in Pharmacy, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, 2024
