@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Tran Minh Duy"
-  pronouns         : "Mr. " # example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              : "Master Student"
   location         : "Deagu, South Korea"
   employer         : "Keimyung University"
