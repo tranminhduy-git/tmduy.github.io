@@ -23,7 +23,7 @@ repository               : "https://tranminhduy-git.github.io/tmduy.github.io//"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2250.jpeg"
+  avatar           : "profile.jpeg"
   name             : "Tran Minh Duy"
   pronouns         :  # example: "she/her"  
   bio              : "Nanomedicine"
