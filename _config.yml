@@ -36,6 +36,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
+  linkedln         : "www.linkedin.com/in/tranminhduy"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -45,6 +46,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  
 
 
   # Repositories and software development
