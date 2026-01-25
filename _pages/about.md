@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there! Welcome to my personal website.
 
-I am currently a Master Student at School of Pharmacy, Keimyung University in South Korea. During master studing, I work as a Research Assisstant at the Nano-Biopharmaceutics Lab led by Prof. Park Soyeun. My research interest focuses on drug delivery system that apply nanotechnology.
+I am currently a Master Student at School of Pharmacy, Keimyung University in South Korea. I work as a Research Assisstant at the Nano-Biopharmaceutics Lab led by Prof. Park Soyeun. My research interest focuses on drug delivery system that apply nanotechnology.
 
 Education
 ======
