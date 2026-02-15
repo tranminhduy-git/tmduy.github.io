@@ -23,10 +23,10 @@ repository               : "https://tranminhduy-git.github.io/tmduy.github.io//"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "IMG_3886.jpeg"
   name             : "Tran Minh Duy"
   pronouns         :  # example: "she/her"  
-  bio              : "Nanomedicine"
+  bio              : "Stay focused, be present"
   location         : "Daegu, South Korea"
   employer         : "Keimyung University"
   uri              : # URL
