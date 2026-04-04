@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Personal Page"
 title_separator          : "-"
-name                     : &name "Tran Minh Duy"
+name                     : &name "Duy M. Tran"
 description              : &description "Tran Minh Duy's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://tranminhduy-git.github.io/tmduy.github.io// # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,7 +23,7 @@ repository               : "https://tranminhduy-git.github.io/tmduy.github.io//"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_3886.jpeg"
+  avatar           : "IMG_4310.jpeg"
   name             : "Tran Minh Duy"
   pronouns         :  # example: "she/her"  
   bio              : 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/duy-minh-tran-b0a6a4212"
+  linkedin         : www.linkedin.com/in/duy-minh-tran-b0a6a4212
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
