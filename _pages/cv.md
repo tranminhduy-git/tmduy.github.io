@@ -18,15 +18,17 @@ Education
 Research experience
 ======
 * Jan 2021 - Aug 2024: Undergraduate Research Student, Department of Microbiology and Parasitology, School of Pharmacy - UMP
-* __Thesis__: The effect of herbal extracts on gut microbiota by cytometric fingerprints.
-  * Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
+
+__Thesis__: The effect of herbal extracts on gut microbiota by cytometric fingerprints.
+Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
 applying a high-throughput method.
   * Tested Vietnamese herbal extracts on mice and collected fecal samples.
   * Operated Flow Cytometry to measure the composition of gut microbiome (size and complexity) in mouse
 fecal samples.
   * Utilized the Phenoflow algorithm performed in RStudio to calculate the biodiversity index of gut microbiota.
-*__Research project__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
-  * Research objective: Screen a Ketosynthase gene fragment (KS) that is related to producing natural polyketide
+  
+__Research project__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
+Research objective: Screen a Ketosynthase gene fragment (KS) that is related to producing natural polyketide
 compounds from marine sponges in Vietnam.
   * Conducted and optimized the protocol for extracting DNA metagenomics from marine sponges.
   * Amplified a gene fragment (KS) by PCR technique.
