@@ -60,6 +60,11 @@ __Oral Presentation__ at The 1st Student Conference On Pharmacy Research - Pham 
 Medicine (2022), Ho Chi Minh, Vietnam.
 
 
+Honors and Awards
+======
+* __2025__: Global Korea Scholarship funded by the Korean Government for Master program at Keimyung University.
+
+
 Laboratory Technique
 ======
 * DNA & RNA extraction, PCR, gel electropherosis, culturing and isolating microorganism.
