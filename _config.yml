@@ -23,7 +23,7 @@ repository               : "https://tranminhduy-git.github.io/tmduy.github.io//"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4320.jpeg"
+  avatar           : "IMG_4330.jpeg"
   name             : "Duy M. Tran"
   pronouns         :  # example: "she/her"  
   bio              : "Pharmacist, Scientist"
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/tranminhduy"
+  linkedin         : "Tran Minh Duy"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
