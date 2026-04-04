@@ -15,11 +15,6 @@
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-   .page__content p {
-  text-align: justify;
-  line-height: 1.8;
-}
-
     "include/mixins",
     "vendor/susy/susy",
 
