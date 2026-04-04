@@ -16,36 +16,36 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research & Development Staff, SaViPharm J.S.C - R&D Center
+  * Developing the formulation of generic drugs including tablets and capsules.
+  * Participating in the validation of the production process in EU GMP manufacturing.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep - Nov 2024: Research & Development Intern, Sanofi - Development Center
+  * Practical training in the analytical physicochemistry GLP laboratory and GMP manufacturing.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
+Laboratory Technique
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DNA & RNA extraction, PCR, gel electropherosis, culturing and isolating microorganism.
+* Flow Cytometry.
 
-Publications
+Conference
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+2023
+===
+* Minh-Duy Tran, Minh-Thai Nguyen, Thanh-Triet Nguyen, Anh Tu Nguyen. The effect of Orthosiphon
+aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting.
+Poster Presentation at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
+* The Consolation Award: Study the effect of herbal extracts on gut microbiota by cytometric fingerprints.
+Oral Presentation at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and
+Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.
+
+2022
+===
+* The Second Award: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
+Oral Presentation at The 1st Student Conference On Pharmacy Research - Pham Ngoc Thach University of
+Medicine (2022), Ho Chi Minh, Vietnam.
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
