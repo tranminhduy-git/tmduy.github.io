@@ -24,9 +24,9 @@ repository               : "https://tranminhduy-git.github.io/tmduy.github.io//"
 author:
   # Biographic information
   avatar           : "IMG_3886.jpeg"
-  name             : "Tran Minh Duy"
+  name             : "Duy M. Tran"
   pronouns         :  # example: "she/her"  
-  bio              : 
+  bio              : "Pharmacist, Scientist"
   location         : "Daegu, South Korea"
   employer         : "Keimyung University"
   uri              : # URL
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : www.linkedin.com/in/tranminhduy
+  linkedin         : "www.linkedin.com/in/tranminhduy"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
