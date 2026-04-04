@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+About
+=====
+
 Hello there! Welcome to my personal website.
 
 I'm a M.Sc. student in Pharmaceutical Sciences at Keimyung University in South Korea, where I work as a Research Assisstant in the Nano-Biopharmaceutics Lab led by __Prof. Soyeun Park__. My work focuses on developing nano-drug delivery systems to overcome Blood-Brain-Bariers for the treatment of brain diseases.
