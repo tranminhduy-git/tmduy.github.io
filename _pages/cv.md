@@ -26,8 +26,7 @@ Work experience
 
 Conference
 ======
-  2023
-  ===
+__2023__
 * __Minh-Duy Tran__, Minh-Thai Nguyen, Thanh-Triet Nguyen, Anh Tu Nguyen. The effect of Orthosiphon
 aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting.
 __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
@@ -35,8 +34,7 @@ __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023),
 __Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and
 Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.
 
-  2022
-  ===
+__2022__
 * __The Second Award__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
 __Oral Presentation__ at The 1st Student Conference On Pharmacy Research - Pham Ngoc Thach University of
 Medicine (2022), Ho Chi Minh, Vietnam.
