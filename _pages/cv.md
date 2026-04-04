@@ -17,7 +17,7 @@ Education
 
  Research experience
 ======
-* Jan 2021 - Aug 2024: __Undergraduate Research Student__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
+> Jan 2021 - Aug 2024: __Undergraduate Research Student__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
 
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
     * Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
