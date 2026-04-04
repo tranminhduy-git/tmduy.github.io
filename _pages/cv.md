@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Pharmaceutical Sciences, Keimyung University, 2028 (Expected)
+* B.S. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, 2024
 
 Work experience
 ======
