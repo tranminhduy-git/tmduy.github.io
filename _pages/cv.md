@@ -68,7 +68,7 @@ Laboratory Technique
 
 Personal Strength
 ======
-* Language: Vietnamese (Mother tounge), English (Upper-Intermediate)
+* Language: Vietnamese (Mother tounge), English (Fluent)
 * Computational skills: R Programming (Basic), Latex
 
 
