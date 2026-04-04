@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div style="font-size: 0.92em; line-height: 1.5;">
+<div style="font-size: 0.875em; line-height: 1.5;">
 
 ## Education
 
