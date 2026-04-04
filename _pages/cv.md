@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 * M.Sc. in Pharmaceutical Sciences, Keimyung University, 2026 - 2028 (Expected)
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), 2019 - 2024
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
-Research experience
-======
+# Research experience
+
 > Jan 2021 - Aug 2024: __Student Researcher__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
     * Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
@@ -32,8 +32,8 @@ compounds from marine sponges in Vietnam:
        * Amplified a gene fragment (KS) by PCR technique.
 
 
-Working Experience
-======
+# Working Experience
+
 > Dec 2024 - July 2025: __Research & Development Staff__ - SaViPharm J.S.C, Vietnam
   * Developing the formulation of generic drugs including tablets and capsules.
   * Participating in the validation of the production process in EU GMP manufacturing.
@@ -42,8 +42,8 @@ Working Experience
   * Practical training in the analytical physicochemistry GLP laboratory and GMP manufacturing.
 
 
-Conference
-======
+# Conference
+
 > __2023__
 * __Minh-Duy Tran__, Minh-Thai Nguyen, Thanh-Triet Nguyen, Anh Tu Nguyen. The effect of Orthosiphon aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting. __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
 * The Consolation Award: Study the effect of herbal extracts on gut microbiota by cytometric fingerprints. __Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.
@@ -52,19 +52,19 @@ Conference
 * __The Second Award__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges. __Oral Presentation__ at The 1st Student Conference On Pharmacy Research - Pham Ngoc Thach University of Medicine (2022), Ho Chi Minh, Vietnam.
 
 
-Honors and Awards
-======
+# Honors and Awards
+
 * __2025__: Global Korea Scholarship funded by the Korean Government for Master program at Keimyung University.
 
 
-Laboratory Technique
-======
+# Laboratory Technique
+
 * DNA & RNA extraction, PCR, gel electropherosis, culturing and isolating microorganism.
 * Flow Cytometry.
 
 
-Personal Strength
-======
+# Personal Strength
+
 * Language: Vietnamese (Mother tounge), English (Fluent)
 * Computational skills: R Programming (Basic), Latex
 
