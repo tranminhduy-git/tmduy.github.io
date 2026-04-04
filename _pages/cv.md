@@ -49,7 +49,7 @@ Conference
 aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting.
 __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
 * The Consolation Award: Study the effect of herbal extracts on gut microbiota by cytometric fingerprints.
-__Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and
+  __Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and
 Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.
 
 > __2022__
