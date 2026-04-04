@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-> Jan 2021 - Aug 2024: __Undergraduate Research Student__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
+> Jan 2021 - Aug 2024: __Student Researcher__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
 
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
     * Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
@@ -34,13 +34,13 @@ compounds from marine sponges in Vietnam:
        * Amplified a gene fragment (KS) by PCR technique.
 
 
-Work experience
+Working Experience
 ======
-> Spring 2024: Research & Development Staff, SaViPharm J.S.C - R&D Center
+> Dec 2024 - July 2025: __Research & Development Staff__ - SaViPharm J.S.C, Vietnam
   * Developing the formulation of generic drugs including tablets and capsules.
   * Participating in the validation of the production process in EU GMP manufacturing.
 
-> Sep - Nov 2024: Research & Development Intern, Sanofi - Development Center
+> Sep - Nov 2024: __Research Intern__ - Sanofi, Vietnam
   * Practical training in the analytical physicochemistry GLP laboratory and GMP manufacturing.
 
 
