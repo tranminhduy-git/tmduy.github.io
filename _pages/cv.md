@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div style="font-size: 0.875em; line-height: 1.5;">
 
 ## Education
 
@@ -68,5 +67,3 @@ compounds from marine sponges in Vietnam:
 
 * Language: Vietnamese (Mother tounge), English (Fluent)
 * Computational skills: R Programming (Basic), Latex
-
-</div>
