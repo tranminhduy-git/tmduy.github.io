@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.S. in Pharmaceutical Sciences, Keimyung University, 2026 - 2028 (Expected)
-* B.S. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), 2019 - 2024
+* M.Sc. in Pharmaceutical Sciences, Keimyung University, 2026 - 2028 (Expected)
+* B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), 2019 - 2024
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
- Research experience
+Research experience
 ======
 > Jan 2021 - Aug 2024: __Undergraduate Research Student__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
 
