@@ -65,6 +65,7 @@ compounds from marine sponges in Vietnam.
 
 ## Online Courses
 * [Foundations of Project Management](https://coursera.org/share/2c81ebb5b2a3bc39c17b5c289fc57503)
+* [Biology Meets Programming: Bioinformatics for Beginners](https://coursera.org/share/674167f85be2d3df18d0ffdffba65052)
 * [Data Analysis with R Programming](https://coursera.org/share/b9677a7969c754193f79f4a6b47f62c8)
 * [Drug Discovery](https://coursera.org/share/0e82d8507edc5d724458f0a8e1d03849)
 
