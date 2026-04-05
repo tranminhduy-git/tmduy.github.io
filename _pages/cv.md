@@ -11,8 +11,8 @@ redirect_from:
 
 ## Education
 
-* M.Sc. in Pharmaceutical Sciences, Keimyung University, 2026 - 2028 (Expected)
-* B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), 2019 - 2024
+* M.Sc. in Pharmaceutical Sciences, Keimyung University, South Korea, 2026 - 2028 (Expected)
+* B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
 ## Research experience
