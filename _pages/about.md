@@ -13,7 +13,7 @@ I'm a MS Student in Pharmaceutical Sciences at Keimyung University in South Kore
 Before coming to Keimyung University, I obtained my Bachelor of Pharmacy from University of Medicine and Pharmacy at Ho Chi Minh City in Vietnam, where I was trained with the molecular biology skills and techniques at the Department of Microbiology and Parasitology. My graduation thesis focused on evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry.
 
 
-Education
-======
+## Education
+
 * M.Sc. in Pharmaceutical Sciences, College of Pharmacy, Keimyung University, South Korea, 2026 - Present
 * B.Sc. in Pharmacy, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam, 2019 - 2024
