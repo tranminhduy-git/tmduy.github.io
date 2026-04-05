@@ -24,7 +24,7 @@ applying a high-throughput method.
       * Tested Vietnamese herbal extracts on mice and collected fecal samples.
       * Operated Flow Cytometry to measure the composition of gut microbiome (size and complexity) in mouse
 fecal samples.
-      * Utilized the [Phenoflow](https://github.com/rprops/PhenoFlow) algorithm performed in RStudio to calculate the biodiversity index of gut microbiota.
+      * Utilized the [Phenoflow](http://rprops.github.io/PhenoFlow/) algorithm performed in RStudio to calculate the biodiversity index of gut microbiota.
    * _Research project_: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
      * Research objective: Screen a Ketosynthase gene fragment (KS) that is related to producing natural polyketide
 compounds from marine sponges in Vietnam.
