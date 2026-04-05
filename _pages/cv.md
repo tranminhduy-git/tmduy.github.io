@@ -60,7 +60,7 @@ compounds from marine sponges in Vietnam.
 ## Personal Strength
 
 * __Tools__: R Programming (Basic), Latex.
-* __Language__: Vietnamese (Mother tounge), English (Fluent), Korean (Intermediate)
+* __Language__: Vietnamese (Mother tounge), English (Fluent), Korean (Intermediate).
 
 
 ## Online Courses
