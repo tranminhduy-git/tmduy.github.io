@@ -42,7 +42,7 @@ compounds from marine sponges in Vietnam.
   * Practical training in the analytical physicochemistry GLP laboratory and GMP manufacturing.
 
 
-## Conference Presentation
+## Conference Presentations
 
 > __2023__
 * __Minh-Duy Tran__, Minh-Thai Nguyen, Thanh-Triet Nguyen, Anh Tu Nguyen. The effect of Orthosiphon aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting. __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
@@ -57,7 +57,7 @@ compounds from marine sponges in Vietnam.
 * __2025__: Global Korea Scholarship funded by the Korean Government for Master program at Keimyung University.
 
 
-## Laboratory Technique
+## Laboratory Techniques
 
 * DNA & RNA extraction, PCR, gel electropherosis, culturing and isolating microorganism.
 * Flow Cytometry.
@@ -66,5 +66,5 @@ compounds from marine sponges in Vietnam.
 ## Personal Strength
 
 * __Tools__: R Programming (Basic), Latex.
-* __Language__: Vietnamese (Mother tounge), English (Fluent).
+* __Language__: Vietnamese (Mother tounge), English (Fluent), Korean (Intermediate)
 
