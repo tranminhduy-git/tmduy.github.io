@@ -62,3 +62,10 @@ compounds from marine sponges in Vietnam.
 * __Tools__: R Programming (Basic), Latex.
 * __Language__: Vietnamese (Mother tounge), English (Fluent), Korean (Intermediate)
 
+
+## Online Courses
+* [Foundations of Project Management](https://coursera.org/share/2c81ebb5b2a3bc39c17b5c289fc57503)
+* [Data Analysis with R Programming](https://coursera.org/share/b9677a7969c754193f79f4a6b47f62c8)
+
+
+
