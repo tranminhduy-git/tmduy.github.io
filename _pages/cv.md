@@ -49,7 +49,7 @@ compounds from marine sponges in Vietnam.
 
 
 ## Honors and Awards
-* __2025__: Global Korea Scholarship funded by the Korean Government for Master program at Keimyung University.
+* __2025__: [Global Korea Scholarship](https://tranminhduy-git.github.io/tmduy.github.io/images/GKS2025.png) funded by the Korean Government for Master program at Keimyung University.
 
 
 ## Laboratory Techniques
