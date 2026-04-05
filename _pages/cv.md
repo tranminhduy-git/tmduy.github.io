@@ -10,13 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
 * M.Sc. in Pharmaceutical Sciences, Keimyung University, South Korea, 2026 - 2028 (Expected)
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
 ## Research experience
-
 > Jan 2021 - Aug 2024: __Student Researcher__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
     * Research objective: Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by
@@ -33,7 +31,6 @@ compounds from marine sponges in Vietnam.
 
 
 ## Working Experience
-
 > Dec 2024 - July 2025: __Research & Development Staff__ - SaViPharm J.S.C, Vietnam
   * Developing the formulation of generic drugs including tablets and capsules.
   * Participating in the validation of the production process in EU GMP manufacturing.
@@ -43,7 +40,6 @@ compounds from marine sponges in Vietnam.
 
 
 ## Conference Presentations
-
 > __2023__
 * __Minh-Duy Tran__, Minh-Thai Nguyen, Thanh-Triet Nguyen, Anh Tu Nguyen. The effect of Orthosiphon aristatus extract and Perilla frutescens extract on gut microbial communities by Flow Cytometric Fingerprinting. __Poster Presentation__ at The 16th Asian Congress on Biotechnology (AFOB 2023), Ho Chi Minh, Vietnam.
 * __The Consolation Award__: Study the effect of herbal extracts on gut microbiota by cytometric fingerprints. __Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.
@@ -53,12 +49,10 @@ compounds from marine sponges in Vietnam.
 
 
 ## Honors and Awards
-
 * __2025__: Global Korea Scholarship funded by the Korean Government for Master program at Keimyung University.
 
 
 ## Laboratory Techniques
-
 * DNA & RNA extraction, PCR, gel electropherosis, culturing and isolating microorganism.
 * Flow Cytometry.
 
