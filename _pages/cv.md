@@ -35,7 +35,7 @@ compounds from marine sponges in Vietnam.
 ## Working Experience
 
 > Dec 2024 - July 2025: __Research & Development Staff__ - SaViPharm J.S.C, Vietnam
-  * Developing the formulation of generic drugs including tablets and capsules.
+  * Developing the formulation of generic drugs (Oral solid dosage form) including tablets and capsules.
   * Participating in the validation of the production process in EU GMP manufacturing.
 
 > Sep - Nov 2024: __Research Intern__ - Sanofi, Vietnam
