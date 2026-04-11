@@ -15,5 +15,5 @@ Before coming to Keimyung University, I obtained my Bachelor of Pharmacy from Un
 
 ## Education
 
-* M.Sc. in Pharmaceutical Sciences, College of Pharmacy, Keimyung University, South Korea, 2026 - Present
+* M.Sc. in Pharmaceutical Sciences, College of Pharmacy, Keimyung University, South Korea, 2026 - 2028 (Expected)
 * B.Sc. in Pharmacy, School of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City, Vietnam, 2019 - 2024
