@@ -15,7 +15,7 @@ redirect_from:
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
-## Research experience
+## Research Experience
 
 > Jan 2021 - Aug 2024: __Student Researcher__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
