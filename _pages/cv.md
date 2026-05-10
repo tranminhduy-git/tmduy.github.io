@@ -49,7 +49,7 @@ compounds from marine sponges in Vietnam.
 * __The Consolation Award__: Study the effect of herbal extracts on gut microbiota by cytometric fingerprints. __Oral Presentation__ at The Scientific Research Student Forum of Ideas session, 39th Pharmaceutical Science and Technology Conference - University of Medicine and Pharmacy at Ho Chi Minh City (2023), Ho Chi Minh, Vietnam.[[Certificate]](https://tranminhduy-git.github.io/tmduy.github.io/images/Consolation.pdf)
 
 > __2022__
-* __The Second Award__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges. __Oral Presentation__ at The 1st Student Conference On Pharmacy Research - Pham Ngoc Thach University of Medicine (2022), Ho Chi Minh, Vietnam.[[Certificate]](https://tranminhduy-git.github.io/tmduy.github.io/images/Second.pdf)
+* __The Second Award__: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges. __Oral Presentation__ at The 1st Student Conference On Pharmacy Research - Pham Ngoc Thach University of Medicine (2022), Ho Chi Minh, Vietnam.[[Certificate]](https://tranminhduy-git.github.io/tmduy.github.io/images/Secondprize.pdf)
 
 
 ## Honors and Awards
