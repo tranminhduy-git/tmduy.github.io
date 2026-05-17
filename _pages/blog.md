@@ -10,7 +10,7 @@ permalink: /blog/
 
 
 First time in South Korea!
-![Description](/images/blog/post_01-1)
-![Description](/images/blog/post_01-2)
-![Description](/images/blog/post_01-3)
-![Description](/images/blog/post_01-4)
+![Description](/images/blog/post_01-1.jpeg)
+![Description](/images/blog/post_01-2.jpeg)
+![Description](/images/blog/post_01-3.jpeg)
+![Description](/images/blog/post_01-4.jpeg)
