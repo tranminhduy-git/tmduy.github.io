@@ -1,7 +1,7 @@
 ---
 title: 'Personal blogs'
 #date: 2012-08-14
-#permalink: /posts/2012/08/blog-post-1/
+permalink: /blog/
 #tags:
  # - cool posts
  # - category1
