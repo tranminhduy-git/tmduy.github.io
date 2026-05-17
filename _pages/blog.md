@@ -8,13 +8,9 @@ permalink: /blog/
  # - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+First time in South Korea!
+![Description](/images/blog/post_01-1)
+![Description](/images/blog/post_01-2)
+![Description](/images/blog/post_01-3)
+![Description](/images/blog/post_01-4)
