@@ -28,7 +28,7 @@ applying a high-throughput method.
 fecal samples.
       * Utilized the [Phenoflow](http://rprops.github.io/PhenoFlow/) algorithm performed in RStudio to calculate the biodiversity index of gut microbiota.
    * _Research project_: Screening for a polyketide synthase-peptide synthetase gene cluster from marine sponges.
-     * Research objective: Screen a Ketosynthase gene fragment (KS) that is related to producing natural polyketide
+     * Research objective: Screening a Ketosynthase gene fragment (KS) that is related to producing natural polyketide
 compounds from marine sponges in Vietnam.
        * Conducted and optimized the protocol for extracting DNA metagenomics from marine sponges.
        * Amplified a gene fragment (KS) by PCR technique.
