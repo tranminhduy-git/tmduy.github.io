@@ -7,6 +7,8 @@ permalink: /blog/
  # - category1
  # - category2
 ---
+Here is my <a href="blog.html">Blog</a>
+
 
 
 First time in South Korea!
