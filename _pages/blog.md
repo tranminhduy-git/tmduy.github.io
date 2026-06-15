@@ -7,7 +7,7 @@ permalink: /blog/
  # - category1
  # - category2
 ---
-[Open Blog website][https://tranminhduy-git.github.io/tmduy.github.io/pages/blog.html]
+[Open Blog Website](https://tranminhduy-git.github.io/tmduy.github.io/pages/blog.html)
 
 
 
