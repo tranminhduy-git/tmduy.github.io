@@ -17,7 +17,7 @@ redirect_from:
 
 ## Research Experience
 
-> May 2026 - Present: __Graduate Research Assistant__, Nano-Biopharmaceutic Lab, Department of Pharmaceutics, School of Pharmacy - Keimyung University
+> May 2026 - Present: __Graduate Research Assistant__, Nano-Biopharmaceutics Lab, Department of Pharmaceutics, School of Pharmacy - Keimyung University
 
 > Jan 2021 - Aug 2024: __Student Researcher__, Department of Microbiology and Parasitology, School of Pharmacy - UMP
   * _Graduation Thesis_: The effect of herbal extracts on gut microbiota by cytometric fingerprints. 
