@@ -43,28 +43,40 @@
 
 ;
 
+/* Full page background */
+html,
 body,
-
+#main,
 .page,
-
 .archive,
-
-.initial-content {
-
-  background-color: #FAF7F0;
-
+.initial-content,
+.layout--single,
+.layout--archive,
+.page__content,
+.page__inner-wrap,
+.sidebar,
+.page__footer {
+  background-color: #FAF7F0 !important;
   color: #333333;
-
 }
 
-h1, h2, h3, h4, h5, h6 {
-
+/* Heading */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #1F3A5F;
-
 }
 
+/* Links */
 a {
-
   color: #0B5394;
+}
 
+/* Keep navigation white */
+.masthead,
+.greedy-nav {
+  background-color: #ffffff !important;
 }
