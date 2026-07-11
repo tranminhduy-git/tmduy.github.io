@@ -15,6 +15,7 @@ redirect_from:
   * Advisor: [__Prof. Soyeun Park__](https://orcid.org/0000-0003-3989-9079)
   * Research: Nano-drug Delivery for cancer treatments.
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
+  * Advisor: Assoc. Prof. Nguyen Tu Anh
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
 ## Research Experience
