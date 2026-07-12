@@ -12,10 +12,10 @@ redirect_from:
 ## Education
 
 * M.Sc. in Pharmaceutical Sciences, Keimyung University, South Korea, 2026 - 2028 (Expected)
-  * Advisor: [__Prof. Soyeun Park__](https://orcid.org/0000-0003-3989-9079)
+  * Advised by Professor [__Soyeun Park__](https://orcid.org/0000-0003-3989-9079)
   * Research: Nano-drug delivery for cancer treatments.
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
-  * Advisor: Assoc. Prof. Nguyen Tu Anh
+  * Advised by Associate Professor Nguyen Tu Anh
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
 
 ## Research Experience
