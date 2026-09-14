@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * M.Sc. in Pharmaceutical Sciences, Keimyung University, South Korea, 2026 - 2028 (Expected)
-  * Advised by [__Professor Soyeun Park__](https://orcid.org/0000-0003-3989-9079)
+  * Advised by [__Professor Soyeun Park__](https://www.researchgate.net/scientific-contributions/Soyeun-Park-32625333)
   * Research: Nano-drug delivery for cancer treatments.
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
   * Advised by __Associate Professor Nguyen Tu Anh__
