@@ -13,7 +13,7 @@ redirect_from:
 
 * M.Sc. in Pharmaceutical Sciences, Keimyung University, South Korea, 2026 - 2028 (Expected)
   * Advised by [__Professor Soyeun Park__](https://www.researchgate.net/scientific-contributions/Soyeun-Park-32625333)
-  * Research: Nano-drug delivery for brain's disease treatments.
+  * Research: Nano-drug delivery for brain disease treatments.
 * B.Sc. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City (UMP), Vietnam, 2019 - 2024
   * Advised by __Associate Professor Nguyen Tu Anh__
   * Thesis: "Evaluating the gut microbiome diversity under the effect of Vietnamese herbal extracts by applying flow cytometry".
